@@ -29,7 +29,7 @@ p{
 
 a{
     text-decoration: none;
-    color: #81b214;
+    color: #ddf3f5 ;
 
 }
 
@@ -119,11 +119,11 @@ a:hover{
 .social-links{
     font-size: 18px;
     margin: 20px 12px 20px ;
-    color: #ddf3f5;
     height: 35px;
 }
 
 .footer-text{
     font-size: 16px;
     margin-top: 30px;
+    color: black;
 }
